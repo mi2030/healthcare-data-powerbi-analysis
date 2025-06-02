@@ -71,7 +71,7 @@ This project demonstrates the power of **data analytics** in improving decision-
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard-preview.png)
+![Dashboard Screenshot](Screenshot 2025-06-02 072851.png)
 
 ---
 
